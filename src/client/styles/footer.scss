@@ -1,0 +1,19 @@
+@import 'src/client/styles/base';
+
+footer {
+    height: 40px;
+    width: 100%;
+    display: flex;
+    flex-shrink: 0;
+    justify-content: center;
+    background-color: $footer-bg-color;
+    border-top: 1px solid #f8f8f8;
+
+    span {
+        margin-left: 20px;
+        line-height: 40px;
+        font-family: $cairo;
+        text-transform: uppercase;
+        color: #e3e3e3;
+    }
+}

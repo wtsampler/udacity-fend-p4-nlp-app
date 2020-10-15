@@ -1,7 +1,14 @@
 form {
     border: 1px solid #545454;
-    border-radius: 3px;
+
+    border-radius: 8px;
     padding: 40px;
+}
+
+.shadow {
+    -moz-box-shadow:    5px 5px 10px #ccc;
+    -webkit-box-shadow: 5px 5px 10px #ccc;
+    box-shadow:         5px 5px 10px #ccc;
 }
 
 input {

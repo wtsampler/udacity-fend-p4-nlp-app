@@ -1,3 +1,13 @@
+@import url(http://fonts.googleapis.com/css?family=Cairo|Roboto+Slab|Open+Sans:400italic,700italic,400,700);
+
+// Font Variables
+$roboto-slab: 'Roboto Slab', serif;   
+$open-sans: 'Open Sans', sans-serif;
+$cairo: 'Cairo', sans-serif;
+
+$header-bg-color: #a3a3a3;
+$footer-bg-color: #4d4d4d;
+
 body {
     display: flex;
     flex-direction: column;
