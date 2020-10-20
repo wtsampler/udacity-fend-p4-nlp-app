@@ -5,9 +5,9 @@ header {
     width: 100%;
     background: $header-bg-color;
     padding: 10px 40px;
+    text-align: center;
 
     span {
-        margin-left: 20px;
         line-height: 40px;
         font-family: $cairo;
         font-size: 2rem;
